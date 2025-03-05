@@ -12,7 +12,14 @@ A graduate student in Data Science. I specialize in the art and science of turni
 
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub)
+
+
+
+
+
 
 ## 🌐 Connect with Me
 [LinkedIn](https://www.linkedin.com/in/vigneshwar-lokoji/)
